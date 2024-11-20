@@ -1,0 +1,1 @@
+print("Tercer arxiu")
